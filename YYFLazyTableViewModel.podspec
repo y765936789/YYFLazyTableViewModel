@@ -9,9 +9,9 @@
 Pod::Spec.new do |s|
   s.name         = "YYFLazyTableViewModel"
   s.version      = "0.0.1"
-  s.summary      = "A short description of YYFLazyTableViewModel."
+  s.summary      = "YYFLazyTableViewModel."
   s.description  = <<-DESC
-  A short description of LazyTableViewModel. YYFLazyTableViewModel.
+  YYFLazyTableViewModel:UITableView's MVVM.
                    DESC
   s.homepage     = "https://github.com/y765936789"
   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
